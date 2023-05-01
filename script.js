@@ -43,6 +43,8 @@ class Book {
     }
 
 // Store Class: Handles Storage
+localStorage.setItem('books', JSON.stringify(books));
+// Use filter to try removing a book
 
 
 // Events: Display Books
