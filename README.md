@@ -61,20 +61,15 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Awesome Book] <a name="about-project"></a>
 
-**[Awesome Book]** is a basic website that allows users to add/remove books from a list.
+**[Awesome Book]** is a mini website which is created by html css and javascript, looking for a fun and interactive way to organize your book collection? Look no further than Awesome Book! This mini website is the perfect solution for book lovers who want to keep track of their favorite reads in a visually appealing and user-friendly way. With its responsive design, you can access your library from anywhere, whether you're on your desktop or mobile device. Plus, with the ability to add, remove, and display books with ease, you'll never lose track of your literary treasures again. So why wait? Check out Awesome Book on GitHub today and start building your own virtual library!
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">HTML</a></li>
-    <li><a href="https://reactjs.org/">CSS</a></li>
-    <li><a href="https://reactjs.org/">JavaScript</a></li>
-  </ul>
-</details>
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 <!-- Features -->
 
@@ -90,9 +85,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add it soon
-
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://zohra-neda.github.io/Awesome-Books/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,8 +146,6 @@ github pages
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@zohra-neda](https://github.com/zohra-neda)
@@ -164,17 +155,14 @@ github pages
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@toyman640](https://github.com/toyman640)
+- Twitter: [@_toyman](https://twitter.com/_toyman)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Add more dynamic pages]**
 
